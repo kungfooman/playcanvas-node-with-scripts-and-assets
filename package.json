@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "@playcanvas/canvas-mock": "^1.0.1",
-    "playcanvas": "^1.65.3"
+    "jsdom": "^22.1.0"
   },
   "name": "playcanvas-node",
   "version": "1.0.0",
@@ -9,7 +8,7 @@
   "scripts": {
     "test": "node test.mjs"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "kung foo man (Hermann Rolfes)",
+  "license": "MIT",
   "description": ""
 }
